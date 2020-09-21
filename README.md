@@ -1,4 +1,4 @@
-# vueora
+# simple vuejs admin dashboard for a saas application
 
 ## Project setup
 ```
