@@ -1,4 +1,4 @@
-# simple vuejs admin dashboard for a saas application
+# admin dashboard for a CHURCH application
 
 ## Project setup
 ```
