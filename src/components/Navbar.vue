@@ -24,9 +24,7 @@
                     <li class="nav-item">
                         <router-link class="nav-link" to="/#features">Features</router-link>
                     </li>
-                    <li class="nav-item">
-                        <router-link class="nav-link" to="/#howitworks">How It Works</router-link>
-                    </li>
+                    
                     <li class="nav-item">
                         <router-link class="nav-link" to="/#pricing">Pricing</router-link>
                     </li>
