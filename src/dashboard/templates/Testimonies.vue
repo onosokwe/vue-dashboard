@@ -6,7 +6,7 @@
             <div class="main_crumb">
                 <router-link to="/dashboard">Home</router-link>
                 <span>/</span>
-                <router-link to="/testimonies">Testimonies</router-link>
+                <router-link to="/testimonies">Testimonies Content</router-link>
             </div>
             <div class="main_body">
                 <div class="container-fluid">
