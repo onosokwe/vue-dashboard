@@ -17,7 +17,7 @@
                                     to="/devotionals" 
                                     class="btn pull-right btn-primary">LIST DEVOTIONALS
                                 </router-link>
-                                <h1>Add Daily Devotional</h1>
+                                <h1>Add Daily Devotional Content</h1>
                                 <AddDevotionalForm />
                             </div>
                         </div>
