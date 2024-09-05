@@ -8,6 +8,7 @@ Vue.config.productionTip = false
 
 Vue.use(wysiwyg, {});
 
+// import auth data
 const authData = localStorage.getItem("auth")
 
 new Vue({
@@ -17,3 +18,4 @@ new Vue({
 	},
 	render: h => h(App),
 }).$mount('#app')
+
