@@ -50,6 +50,7 @@
                                                 <option value="1">Lite</option>
                                                 <option value="2">Pro</option>
                                                 <option value="3">Enterprise</option>
+						<option value="4">Enterprise Plus</option>
                                             </select>
                                         </div>
                                     </div>
