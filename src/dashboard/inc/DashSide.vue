@@ -36,6 +36,11 @@
                     <i class="fa fa-money"></i> Online Giving 
                 </router-link>
             </li>
+            <li title="Sign Out">
+                <router-link to="/">
+                    <i class="fa fa-singout"></i> Logout 
+                </router-link>
+            </li>
         </ul>
     </div>
 </template>
