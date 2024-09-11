@@ -29,7 +29,7 @@
                         <router-link class="nav-link" to="/#pricing">Pricing</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/docs">Docs</router-link>
+                        <router-link class="nav-link" to="/documentation">Docs</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link class="nav-link" to="/signup">Get Started</router-link>
